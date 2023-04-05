@@ -1,3 +1,1 @@
-No code No pain
-experiment with amend
-Dasha
+Я инженер по тестированию ПО
